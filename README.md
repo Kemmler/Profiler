@@ -32,4 +32,4 @@ Uses Uniface profiler information and graphically display it allowing the user t
 
 4. Install vcredist_x86.exe if not already on your machine 
 
-5. To generate a license, run the ‘profiler_smartID.exe’. This will generate a unique identifier for your machine. Enter this id below and click generate licence. Put the generated file into your working directory
+5. To generate a license, run the â€˜profiler_smartID.exeâ€™. This will generate a unique identifier for your machine. Email this ID to uniface.sme@uniface.com, putting the file returned into your working directory.
